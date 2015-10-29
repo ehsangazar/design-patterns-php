@@ -1,8 +1,10 @@
 <?php
-/*
-Factory Design Pattern
-We Have an object Automobile and an AutomobileFactory Class which makes an object from AutomobileClass
-*/
+
+// Problem
+// A framework needs to standardize the architectural model for a range of applications, 
+// but allow for individual applications to define their own domain objects 
+// and provide for their instantiation.
+
 class Automobile
 {
     private $vehicleMake;

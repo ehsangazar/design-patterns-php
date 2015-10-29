@@ -2,6 +2,12 @@
 
 // Abstract Factory
 // Problem: We want to have a multi support os class
+// If an application is to be portable, 
+// it needs to encapsulate platform dependencies. 
+// These "platforms" might include: windowing system, operating system, database, etc. 
+// Too often, this encapsulatation is not engineered in advance, 
+// and lots of #ifdef case statements with options for all currently 
+// supported platforms begin to procreate like rabbits throughout the code.
 
 class shape {
 	public function draw(){}

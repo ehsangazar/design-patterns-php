@@ -1,8 +1,10 @@
 <?php
 /*
 Singleton Design Pattern
-Makes you able to allow access to one and only one instance of a particular class
+Problem
+Application needs one, and only one, instance of an object. Additionally, lazy initialization and global access are necessary.
 */
+
 class Singleton
 {
     /**
