@@ -1,4 +1,4 @@
-#Design Patterns in PHP with Real Examples
+## Design Patterns in PHP with Real Examples
 In this repo you can find all familiar design patterns that uses in most php frameworks.  
 Design patterns divided into three categories as below :
 
@@ -27,17 +27,17 @@ Structural
 Behavioral
 ----------
 
- - [**Chain Of Responsibility**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/chain-of-responsibility.php)
- - [**Command**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/command.php)
- - [**Interpreter**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/interpreter.php)
- - [**Iterator**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/iterator.php)
- - [**Mediator**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/mediator.php)
- - [**Momento**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/momento.php)
- - [**Observer**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/observer.php)
- - [**State**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/state.php)
- - [**Strategy**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/strategy.php)
- - [**Template Method**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/template-method.php)
- - [**Visitor**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral/visitor.php)
+ - [**Chain Of Responsibility**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/chain-of-responsibility.php)
+ - [**Command**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/command.php)
+ - [**Interpreter**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/interpreter.php)
+ - [**Iterator**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/iterator.php)
+ - [**Mediator**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/mediator.php)
+ - [**Momento**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/momento.php)
+ - [**Observer**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/observer.php)
+ - [**State**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/state.php)
+ - [**Strategy**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/strategy.php)
+ - [**Template Method**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/template-method.php)
+ - [**Visitor**](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/visitor.php)
 
 
 
